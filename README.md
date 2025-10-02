@@ -57,7 +57,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/gowtham-pandiyan-kannan/))  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/gowtham-pandiyan-kannan/)](https://www.linkedin.com/in/gowtham-pandiyan-kannan/))  
 - 📧 Email: gowthampandiyan7@email.com  
 - 🌐 [Portfolio Website]((https://portfolio-2-three-zeta.vercel.app/))  
 
