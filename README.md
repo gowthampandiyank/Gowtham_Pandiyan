@@ -3,7 +3,7 @@
 💡 Junior Data Analyst | 📊 Turning Data into Insights | 🌱 Lifelong Learner  
    web tech | frond-end developer | web developer
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 🔎 About Me  
 - 🎓 B.Com Graduate (Pachaiyappa's College, 2017–2020)  
@@ -13,13 +13,12 @@
 - 🚀 Open to **Data Analyst / Business Analyst roles**
 - 🧑‍💻alos as web deveoper **HTML,CSS,Javascrip**
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Skills & Tools  
 - SQL  
 - Power BI  
-- Excel  
-- GitHub  
+- Excel 
 - Data Visualization  
 - Reporting & Dashboarding
 - HTML
@@ -27,8 +26,7 @@
 - JavaScipt
 - Git
 - Github
-
----
+-------------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Featured Projects  
 - **Sales Dashboard – Power BI**  
@@ -40,13 +38,13 @@
 - **Retail Performance Report**  
   Weekly and monthly performance analysis with insights for decision-making.  
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 🏆 Certifications  
 - SQL for Data Analysis – Simplilearn  
 - Power BI Project – Simplilearn  
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 💼 Work Experience  
 - **Merchandising Analyst** – Lifestyle International Pvt Ltd.  
@@ -54,14 +52,16 @@
 - **Reporting Assistant** – Sri Annapoorna Restaurant  
 - **Telecaller** – Forte Management Services  
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/gowtham-pandiyan-kannan/))  
+- 💼 [LinkedIn](((https://www.linkedin.com/in/gowtham-pandiyan-kannan/))  
 - 📧 Email: gowthampandiyan7@email.com  
 - 🌐 [Portfolio Website]((https://gowthampandiyank.github.io/Portfolio-Gowtham/index.html)  
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 
 ✨ *Always open to data analyst opportunities and collaborations!*  
+
+--------------------------------------------------------------------------------------------------------------------------
